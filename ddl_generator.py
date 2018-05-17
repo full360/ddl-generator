@@ -1,4 +1,3 @@
- 
 import os,errno,sys
 
 def silentremove(filename):
